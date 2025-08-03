@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SentenceSplitter.dir/main.cpp.o -o SentenceSplitter  -Wl,-rpath,/home/demureronin/dev/text_editor_cpp/build/libs/SDL libs/SDL/libSDL3.so.0.3.0

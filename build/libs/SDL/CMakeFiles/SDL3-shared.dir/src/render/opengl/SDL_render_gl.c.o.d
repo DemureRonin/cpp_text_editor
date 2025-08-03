@@ -1,0 +1,23 @@
+libs/SDL/CMakeFiles/SDL3-shared.dir/src/render/opengl/SDL_render_gl.c.o: \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/SDL_render_gl.c \
+ /usr/include/stdc-predef.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/SDL_internal.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/../../video/SDL_sysvideo.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/include/SDL3/SDL_vulkan.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/include/SDL3/SDL_stdinc.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/include/SDL3/SDL_error.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/include/SDL3/SDL_video.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/include/SDL3/SDL_begin_code.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/include/SDL3/SDL_close_code.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/../../video/SDL_surface_c.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/../../video/SDL_blit.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/include/SDL3/SDL_opengl.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/include/SDL3/SDL_platform.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/include/SDL3/SDL_opengl_glext.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/../SDL_sysrender.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/../../video/SDL_surface_c.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/../SDL_yuv_sw_c.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/SDL_shaders_gl.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/../../video/SDL_pixels_c.h \
+ /home/demureronin/dev/text_editor_cpp/libs/SDL/src/render/opengl/SDL_glfuncs.h

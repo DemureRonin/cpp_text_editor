@@ -1,0 +1,8 @@
+/home/demureronin/dev/text_editor_cpp/build/CMakeFiles/SentenceSplitter.dir
+/home/demureronin/dev/text_editor_cpp/build/CMakeFiles/edit_cache.dir
+/home/demureronin/dev/text_editor_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/demureronin/dev/text_editor_cpp/build/libs/SDL/CMakeFiles/SDL3-shared.dir
+/home/demureronin/dev/text_editor_cpp/build/libs/SDL/CMakeFiles/SDL3_test.dir
+/home/demureronin/dev/text_editor_cpp/build/libs/SDL/CMakeFiles/SDL_uclibc.dir
+/home/demureronin/dev/text_editor_cpp/build/libs/SDL/CMakeFiles/edit_cache.dir
+/home/demureronin/dev/text_editor_cpp/build/libs/SDL/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/demureronin/dev/text_editor_cpp/build/cmake_install.cmake",
+		"/home/demureronin/dev/text_editor_cpp/build/libs/SDL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
